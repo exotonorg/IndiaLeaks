@@ -876,7 +876,7 @@ p {
     filter: gray;
     -webkit-filter: grayscale(1);
     filter: grayscale(1);
-    max-height: 75px;
+    max-height: 65px;
     width: auto;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
